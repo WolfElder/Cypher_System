@@ -1,0 +1,19 @@
+## Icon Tied
+- Renier Snyman - The Priest
+	- Mystical Explorer who Shepherd Spirits
+	- Wants someone to investigate the murdered souls that keep him awake at night.
+- Landi Botha - The Unnamed
+	- Rusted Speaker who Befriends the Black Dog
+	- Wants someone to help her befriend the black dog.
+- Adam van der Smit - The One who Speaks
+	- Wily Explorer who Codes Magic Apps
+	- Wants to code an app for magic users to date, but is worried the government might use it to spy on magics.
+- Jaco Naude - The Berserker
+	- Hardy Warrior who Murders
+	- Wants to hunt down Satyrs who live in the Oak District.
+- Mariska Venter - The Outcasted Fey
+	- Lost Adept who Fuses Flesh and Steel
+	- Wants to capture the Black Dog and turn him into a monster.
+- Madelein Fourie - The Courtesan
+	- Amazing Speaker who Explores Dark Places
+	- Works for the government and is trying to put a line of code on Adam's app.

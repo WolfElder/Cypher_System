@@ -17,3 +17,4 @@ This is just a quick and dirty "how currency works" thing.
 - When you buy something, subtract 1 from your currency pool. BUT if you have 10 or less:
 	- Roll 1d10 and if you exceed your current resource pool, then reduce resource by 1.
 	- Else, you keep your current pool.
+
