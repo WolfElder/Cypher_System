@@ -1,0 +1,1 @@
+When you **have enough XP to Level Up** (6 + twice your current level), you may spend 2 XP after any roll you make to add +1 to that roll (max +1 per roll).
