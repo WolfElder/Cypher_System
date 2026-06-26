@@ -1,3 +1,4 @@
+These moves are available to all players.
 
 | Move             | Trigger                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -9,5 +10,5 @@
 | [[Know Things]]  | When you consult your accumulated knowledge                                                                         |
 | [[Let Fly]]      | When you take an easy shot with a ranged weapon OR the shot is tricky or you’re under pressure                      |
 | [[Persuade NPC]] | When you press or entice an NPC                                                                                     |
-| [[Persuade PC]]  |                                                                                                                     |
-| [[Seek Insight]] |                                                                                                                     |
+| [[Persuade PC]]  | When you press or entice a PC and they resist                                                                       |
+| [[Seek Insight]] | When you study a situation or person, looking to the GM for insight                                                 |
