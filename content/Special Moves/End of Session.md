@@ -14,4 +14,5 @@ Finally, offer up a wish for future sessions:
 * less___
 * a chance to___
 * handling___
+
 Wishes can be about what happens in the fiction or around the table. The GM will take notes.
